@@ -1,6 +1,8 @@
 # simple-wgan-with-minist
 
-The code is written based on https://github.com/Zackory/Keras-MNIST-GAN
+The original gan code is wiritten by  https://github.com/Zackory/Keras-MNIST-GAN
 
-I don't clip the weight in discriminator, it can also have a good result.
+Here I change the loss and label for implementing wgan 
+
+I don't clip the weight in discriminator(which caused a bad result in my test), it can also have a good result.
 
