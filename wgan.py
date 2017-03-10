@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  8 19:11:49 2017
-
-@author: ray
-"""
-
-
 import keras.backend as K
 from keras.activations import relu
 from keras.models import Model
