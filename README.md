@@ -6,3 +6,10 @@ Here I change the loss and label for implementing wgan
 
 I don't clip the weight in discriminator(which caused a bad result in my test), it can also have a good result.
 
+GAN：iterate 201 epoches
+
+![image](https://github.com/ray0809/simple-wgan-with-minist/blob/master/gan_generated_img_epoch_201.png)
+
+WGAN:iterate 200 epoches
+
+![image](https://github.com/ray0809/simple-wgan-with-minist/blob/master/wgan_generated_img_epoch_200.png)
