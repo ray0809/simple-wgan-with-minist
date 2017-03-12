@@ -1,6 +1,6 @@
 # simple-wgan-with-minist
 
-The original gan code is wiritten by  https://github.com/Zackory/Keras-MNIST-GAN
+The original gan code is written by  https://github.com/Zackory/Keras-MNIST-GAN
 
 Here I change the loss and label for implementing wgan 
 
